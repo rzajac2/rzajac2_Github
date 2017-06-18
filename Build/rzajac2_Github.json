@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "rzajac2_Github.data.unityweb",
+"asmCodeUrl": "rzajac2_Github.asm.code.unityweb",
+"asmMemoryUrl": "rzajac2_Github.asm.memory.unityweb",
+"asmFrameworkUrl": "rzajac2_Github.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
